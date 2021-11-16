@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 0px;
+    font-size: 60;
+    padding-right: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    width: 90px;
+    padding: 0px;
+    background-color: black;
+    border-color: antiquewhite;
+    height: 45px;
+    border-radius: 30px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    transition: ease-in;
+}
+
+footer{
+    color: aliceblue;
+    text-align: center;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
